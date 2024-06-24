@@ -42,7 +42,15 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 - Right click on the repository and click on 'open in integrated terminal'
 - Run `npm i` to install dependencies
 - Run `npm run develop` to run the application
-- The terminal should return a message to say that it is running on port 3000
+- The terminal should return a message to say that the application is running on port 3000
 
 ## Images
+
+<img width="1440" alt="Screenshot 2024-06-24 at 17 59 05" src="https://github.com/isazafeer/book-search-engine/assets/116819407/106f4713-8359-499e-8093-71daa28835aa">
+
+<img width="835" alt="Screenshot 2024-06-24 at 17 59 25" src="https://github.com/isazafeer/book-search-engine/assets/116819407/9027b000-e199-4946-bf73-e0fb4afcc76d">
+
+<img width="1423" alt="Screenshot 2024-06-24 at 18 00 56" src="https://github.com/isazafeer/book-search-engine/assets/116819407/9376b373-7c88-4de5-bef0-b0cb32338144">
+
+Link to depolyed application:
 
